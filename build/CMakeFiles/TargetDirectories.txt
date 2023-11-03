@@ -1,0 +1,5 @@
+/home/lavi/Face-Recognition-Raspberry-Pi-64-bits/build/CMakeFiles/FaceRecognition.dir
+/home/lavi/Face-Recognition-Raspberry-Pi-64-bits/build/CMakeFiles/edit_cache.dir
+/home/lavi/Face-Recognition-Raspberry-Pi-64-bits/build/CMakeFiles/rebuild_cache.dir
+/home/lavi/Face-Recognition-Raspberry-Pi-64-bits/build/_deps/json-build/CMakeFiles/edit_cache.dir
+/home/lavi/Face-Recognition-Raspberry-Pi-64-bits/build/_deps/json-build/CMakeFiles/rebuild_cache.dir
